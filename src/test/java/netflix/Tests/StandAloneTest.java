@@ -20,6 +20,7 @@ public class StandAloneTest {
 
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
+           //new contents added
 		String productName="ADIDAS ORIGINAL";
 		WebDriverManager.chromedriver().setup();
 		WebDriver driver=new ChromeDriver();
